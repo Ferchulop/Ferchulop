@@ -1,6 +1,7 @@
 <div align="center">
 
-![8sgr4i](https://github.com/Ferchulop/Ferchulop/assets/152642994/09990f62-5946-4ee4-a9e1-e090c6ce5a4f)
+
+![EmojiMovie738957174-2](https://github.com/Ferchulop/Ferchulop/assets/152642994/c10bfd8f-a31c-45a7-8e69-608671d18bb1)
 
 
 
