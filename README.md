@@ -1,8 +1,8 @@
 <div align="center">
 
+![8sgr4i](https://github.com/Ferchulop/Ferchulop/assets/152642994/09990f62-5946-4ee4-a9e1-e090c6ce5a4f)
 
 
-https://github.com/Ferchulop/Ferchulop/assets/152642994/e38bb363-e4c0-4b55-9e1e-c8f635bc3f5e
 
 
 
