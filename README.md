@@ -1,11 +1,6 @@
 <div align="center">
 
-
-![EmojiMovie738957174-2](https://github.com/Ferchulop/Ferchulop/assets/152642994/c10bfd8f-a31c-45a7-8e69-608671d18bb1)
-
-
-
-
+![memoji](https://github.com/Ferchulop/Ferchulop/assets/152642994/78125ac3-7765-4f95-b25e-f1b043517510)
 
 </div>
 
