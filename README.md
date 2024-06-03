@@ -1,6 +1,7 @@
 <div align ="center">
 
-![memoji](https://github.com/Ferchulop/Ferchulop/assets/152642994/cadcdc45-4166-4575-b9f0-870a0ee3d758)
+
+![copy-66FAFADE-C4D4-4549-9E33-1-unscreen](https://github.com/Ferchulop/Ferchulop/assets/152642994/0f0e05af-4707-4cc6-ae49-dbcb88bbe16f)
 
 
 
