@@ -1,6 +1,7 @@
 <div align="center">
 
-![RPReplay_Final1717349383-ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/bad13822-aa6c-4fa1-b5f0-38f12e0ef6c8)
+![memoji](https://github.com/Ferchulop/Ferchulop/assets/152642994/67e4e5ae-a6e9-4203-9da2-fdc52e7a76a3)
+
 
 
 
