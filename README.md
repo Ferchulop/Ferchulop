@@ -1,6 +1,6 @@
 <div align ="center">
 
-![9dd5230afbf2441891519fe754e488f9-ezgif com-video-to-gif-converter](https://github.com/Ferchulop/Ferchulop/assets/152642994/bbfcf690-93fa-430d-b65c-d73fe27e4643)
+![memoji](https://github.com/Ferchulop/Ferchulop/assets/152642994/cadcdc45-4166-4575-b9f0-870a0ee3d758)
 
 
 
