@@ -1,8 +1,4 @@
-<div align="center">
-  
 ![memoji](https://github.com/Ferchulop/Ferchulop/assets/152642994/67e4e5ae-a6e9-4203-9da2-fdc52e7a76a3)
-
-</div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="mailto:fernando.jurado.madrid@gmail.com">
