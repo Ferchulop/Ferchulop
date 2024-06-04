@@ -1,12 +1,5 @@
 <div align ="center">
-
-
 ![memoji1950](https://github.com/Ferchulop/Ferchulop/assets/152642994/f5bbd2ca-df60-4030-b5bd-2a140c835bac)
-
-
-
-
-
 </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
