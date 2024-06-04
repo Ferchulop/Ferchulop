@@ -1,7 +1,7 @@
 <div align ="center">
 
 
-![memoji_prueba9-ezgif com-video-to-gif-converter](https://github.com/Ferchulop/Ferchulop/assets/152642994/583a0088-c3e9-4f81-9e08-344d793f9dae)
+![ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/f9e50576-d610-4ed4-afe8-9c26f91f721a)
 
 
 </div>
