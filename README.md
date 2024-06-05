@@ -1,6 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
  
-![RPReplay_Final1717349383-ezgif com-speed](https://github.com/Ferchulop/Ferchulop/assets/152642994/fb7795c8-676d-428e-a58f-0a00bb40ac41)
+![Memoji_definitivo](https://github.com/Ferchulop/Ferchulop/assets/152642994/bbe0fa35-26bb-4802-aa36-179f7e817fc9)
+
 
 
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
