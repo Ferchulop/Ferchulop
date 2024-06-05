@@ -1,9 +1,6 @@
 <div align ="center">
 
-
 ![MEMOJIDEFINITIVO-ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/1ae79221-f96e-4f62-80d6-6e303304b7b4)
-
-
 
 </div>
 <div align="center">
