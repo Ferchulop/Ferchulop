@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 2px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
 
  ![MEMOJIDEFINITIVO-ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/14c0e90b-0db2-49ee-89c9-7be9176bd709)
 
