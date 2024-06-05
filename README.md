@@ -1,9 +1,10 @@
 <div align ="center"> 
-![MEMOJIDEFINITIVO-ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/1ae79221-f96e-4f62-80d6-6e303304b7b4)
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- <a href="mailto:fernando.jurado.madrid@gmail.com">
- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-  
+
+ ![MEMOJIDEFINITIVO-ezgif com-resize](https://github.com/Ferchulop/Ferchulop/assets/152642994/14c0e90b-0db2-49ee-89c9-7be9176bd709)
+
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ <a href="mailto:fernando.jurado.madrid@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
+ 
 </div>
 
 ###
