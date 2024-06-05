@@ -1,8 +1,6 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
  
-![Memoji_definitivo](https://github.com/Ferchulop/Ferchulop/assets/152642994/bbe0fa35-26bb-4802-aa36-179f7e817fc9)
-
-
+ ![Memoji_definitivo](https://github.com/Ferchulop/Ferchulop/assets/152642994/bbe0fa35-26bb-4802-aa36-179f7e817fc9)
 
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
  <a href="mailto:fernando.jurado.madrid@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"/></a>
