@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left" style="font-size: 18;" >I'm  Fernando Jurado Madrid <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h2 align="left">I'm  Fernando Jurado Madrid <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h2>
 
 ###
 
