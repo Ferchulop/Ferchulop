@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="left">👨🏽‍💻 About Me:</h1>
+<h1 align="left">👨🏽‍💻 Sobre mi:</h1>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h1 align="left">🛠 Lenguajes y herramientas</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
+<h1 align="left">🔥   Estadísticas :</h1>
 
 ###
 
