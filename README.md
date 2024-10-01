@@ -17,7 +17,11 @@
 
 ###
 
-<h2 align="left">Soy  Fernando Jurado Madrid <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h2>
+<h2 align="left">Soy  Fernando Jurado Madrid 
+ <br>
+ 📚  Estudiante de DAM con 7 años de experiencia laboral. En mi tiempo libre, me apasiona aprender Swift y explorar nuevas tecnologías. ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos!"
+ <br>-
+</h2>
 
 ###
 
