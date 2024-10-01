@@ -19,7 +19,9 @@
 
 <h2 align="left">
  
- 📚 Estudiante de DAM con 7 años de experiencia laboral. En mi tiempo libre, me apasiona aprender Swift y explorar nuevas tecnologías.  ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
+- 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 📱 En mi tiempo libre, me motiva e inspira aprender Swift y SwiftUI
+- ❤ ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
  
 </h2>
 
