@@ -17,9 +17,10 @@
 
 ###
 
-<h2 align="center">
- 📚 Estudiante de DAM con 7 años de experiencia laboral. En mi tiempo libre, me apasiona aprender Swift y explorar nuevas tecnologías.
-    ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos!  
+<h2 align="left">
+ 
+ 📚 Estudiante de DAM con 7 años de experiencia laboral. En mi tiempo libre, me apasiona aprender Swift y explorar nuevas tecnologías.  ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
+ 
 </h2>
 
 ###
