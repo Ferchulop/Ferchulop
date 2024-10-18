@@ -54,12 +54,9 @@
 </div>
 
 ###
-
 <h1 align="left">🔥   Estadísticas :</h1>
-
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ferchulop&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="320" alt="streak graph"  />
 </div>
-
 ###
