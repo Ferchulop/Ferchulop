@@ -19,7 +19,7 @@
 
 <h2 align="left">
  
-- 📚 Desarrollador de Software Junior,       cursando Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 📚 Desarrollador de Software Junior, cursando Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 📱 En mi tiempo libre, me motiva e inspira aprender Swift y SwiftUI
 - ❤ ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
  
