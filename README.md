@@ -20,7 +20,7 @@
 <h2 align="left">
  
 - 📚 Motivado por el aprendizaje continuo que exige esta profesión y por el reto constante de construir soluciones innovadoras.
-- 📱 Desarrollador iOS & visionOS enfocado en crear experiencias fluidas e intuitivas en el ecosistema Apple con Swift y SwiftUI
+- 📱 Desarrollador iOS & visionOS enfocado en crear experiencias fluidas e intuitivas en el ecosistema Apple con Swift y SwiftUI.
 - ❤ ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
  
 </h2>
