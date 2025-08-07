@@ -19,8 +19,8 @@
 
 <h2 align="left">
  
-- 📚 Desarrollador de Software Junior, cursando Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 📱 En mi tiempo libre, me motiva e inspira aprender Swift y SwiftUI
+- 📚 Motivado por el aprendizaje continuo que exige esta profesión y por el reto constante de construir soluciones innovadoras.
+- 📱 Desarrollador iOS & visionOS enfocado en crear experiencias fluidas e intuitivas en el ecosistema Apple con Swift y SwiftUI
 - ❤ ¡Gracias por visitar mi perfil, te animo a que explores mis proyectos! 
  
 </h2>
