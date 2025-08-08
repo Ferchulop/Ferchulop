@@ -26,7 +26,7 @@
 </h2>
 
 ###
-## ⚙️ Lenguajes y herramientas
+<h1 align="left"> 🛠️ Lenguajes y herramientas:</h1>
 
 | Java | MySQL | PostgreSQL | HTML5 | CSS3 | Swift | Spring | Xcode | VSCode | IntelliJ | Git |
 |------|-------|------------|-------|------|-------|--------|-------|--------|----------|-----|
