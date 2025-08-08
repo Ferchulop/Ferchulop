@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="left> 📊 Estadísticas de GitHub:</h1>
+<h1 align="left"> 📊 Estadísticas de GitHub:</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ferchulop&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
