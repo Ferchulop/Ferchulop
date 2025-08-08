@@ -27,17 +27,17 @@
 
 ###
 
-## ⚙️ Lenguajes y herramientas
+<h1 align"left">🛠️Lenguajes y herramientas</h1>
 
-| Java | MySQL | PostgreSQL | HTML5 | CSS3 | Swift | Spring | Xcode | VSCode | IntelliJ | Git |
-|------|-------|------------|-------|------|-------|--------|-------|--------|----------|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> | <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-64x64_2x.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> |
+| Xcode | Swift | SwiftUI | Java | MySQL | PostgreSQL | HTML5 | CSS3 | Spring Boot | VS Code | IntelliJ | Git |
+|-------|-------|---------|------|-------|------------|-------|------|-------------|---------|----------|-----|
+| <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-64x64_2x.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/> | <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> |
 
 ---
 
 ###
 
-<h1 align="left"> 📊 Estadísticas de GitHub:</h1>
+<h1 align="left">📊 Estadísticas de GitHub:</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulop&layout=compact&theme=radical&langs_count=4" alt="Languages" height="150"/>
 </p>
