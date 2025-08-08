@@ -38,6 +38,6 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferchulop&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulop&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
 </p>
