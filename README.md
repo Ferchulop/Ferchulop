@@ -36,9 +36,8 @@
 
 ###
 
-<h1 align="left"> 📊 Estadísticas de GitHub:</h1>
-
+### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferchulop&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulop&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferchulop&show_icons=false&theme=radical&hide_rank=true" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulop&layout=compact&theme=radical&hide_progress=true" alt="Languages" height="150"/>
 </p>
