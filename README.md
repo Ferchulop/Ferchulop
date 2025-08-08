@@ -29,10 +29,6 @@
 
 <h1 align="left">🛠 Lenguajes y herramientas</h1>
 
-###
-
-<h1 align="left">🛠 Lenguajes y herramientas</h1>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;
