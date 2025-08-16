@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align"left">🛠️ Lenguajes y IDEs:</h1>
+<h1 align"left">🛠️ Lenguajes y herramientas:</h1>
 
 | Xcode | Swift | SwiftUI | Java | MySQL | PostgreSQL | HTML5 | CSS3 | Spring Boot | VS Code | IntelliJ | Git |
 |-------|-------|---------|------|-------|------------|-------|------|-------------|---------|----------|-----|
