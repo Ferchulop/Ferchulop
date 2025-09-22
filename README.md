@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">🖱️ + ⌨️ + 🖥️  = I build digital bridges between ideas and reality</h1>
+<h1 align="center"> {🖱️ + ⌨️ + 🖥️  == I build digital bridges between ideas and reality}</h1>
 
 ###
 
